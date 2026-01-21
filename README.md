@@ -1,1 +1,3 @@
 # Hospitality-Industry
+This Power BI project presents interactive dashboard analyzing key metrics across multiple hotel properties under Atliq. The dashboards include detailed reports on revenue, occupancy rates, ADR (Average Daily Rate), and customer ratings, segmented by property and city. Weekly data tracking provides insights into performance trends, room utilization, and platform efficiency, aiding in optimizing hotel operations and decision-making.
+The dataset includes five CSV files covering dates, hotels, rooms, aggregated bookings, and individual bookings. Key columns provide insights into room categories, booking details, guest counts, revenues, and ratings, supporting a comprehensive analysis of hotel operations and customer behavior.
